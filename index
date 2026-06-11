@@ -1,1 +1,24 @@
-첫홈페이지 테스트입니다.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MiMi Investment Lab</title>
+</head>
+<body>
+
+<h1>MiMi Investment Lab</h1>
+
+<p>안녕하세요.</p>
+
+<p>데이터 분석과 투자 연구를 기록하는 공간입니다.</p>
+
+<h2>관심 분야</h2>
+
+<ul>
+    <li>주식 투자</li>
+    <li>ETF 분석</li>
+    <li>AI 활용</li>
+    <li>데이터 사이언스</li>
+</ul>
+
+</body>
+</html>
